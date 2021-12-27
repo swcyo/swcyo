@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there，欢迎来到我的Github 👋
 
 <!--
 **swcyo/swcyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,24 +13,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 <img src="https://simpleicons.org/icons/r.svg" align="right" width="100px"/>
 
-Dr. **Song Ou-Yang(欧阳松)** is a lecturer and attending doctor of urology at the Shihezi University. His research interests include urogenital tumors, urolithiasis, male infertility, male erectile dysfunction,etc.
+大家好，我叫 **欧阳松(Song Ou-Yang)** ，目前是石河子大学医学院第一附属医院泌尿外科的主治医师、讲师，博士毕业于华中科技大学同济医学院附属同济医院，我的主要研究点泌尿系肿瘤，日常工作擅长于前列腺增生、泌尿系结石、男性不育症好男性性功能障碍等疾病的诊治。
 
--   :telescope: I'm focus on **My university studies** && [**My Blog**](https://swcyo.rbind.io/).
--   :seedling: I'm learning ![R](https://img.shields.io/badge/-R-5D4F85?style=flat&logo=haskell&logoColor=ffffff).
--   :speech_balloon: Ask me about **How to use Github Pages to host a personal blog**.
+-   :telescope: 一个基于R的博客[**My Blog**](https://swcyo.rbind.io/).
+-   :seedling: 目前于热衷 ![R](https://img.shields.io/badge/-R-5D4F85?style=flat&logo=haskell&logoColor=ffffff)的学习.
+-   :speech_balloon: 一起讨论**Github Pages**.
 
 ### :microscope: Tech && Tools Preference
 
 ![R](https://img.shields.io/badge/-R-00599C?style=flat&logo=c%252B%252B&logoColor=ffffff)  ![Gitee](http://img.shields.io/badge/-Gitee-F05032?style=flat&logo=git&logoColor=ffffff) ![GitHub](http://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)  ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=ffffff)
 
-### :mailbox: How to reach me:
+### :mailbox: 如何联系我:
 
--   GitHub: [swcyo](https://github.com/swcyo) (Why not follow me?:eyes:)
--   Email: [ouyangsong@shzu.edu.cn](mailto:ouyangsong@shzu.edu.cn)
+-   GitHub: [swcyo](https://github.com/swcyo) (不关注一下吗?:eyes:)
+-   E-mail: [ouyangsong@shzu.edu.cn](mailto:ouyangsong@shzu.edu.cn)
 
 <!-- Links -->
 
