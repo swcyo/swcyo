@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://simpleicons.org/icons/r.svg" align="right" width="100px"/>
 
-大家好，我叫 **欧阳松(Song Ou-Yang)** ，目前是石河子大学医学院第一附属医院泌尿外科的主治医师、讲师，博士毕业于华中科技大学同济医学院附属同济医院，我的主要研究点泌尿系肿瘤，日常工作擅长于前列腺增生、泌尿系结石、男性不育症和男性性功能障碍等疾病的诊治。
+大家好，我叫 **欧阳松(Song Ou-Yang)** ，目前是石河子大学医学院医院泌尿外科的副主任医师、讲师，博士毕业于华中科技大学同济医学院附属同济医院，我的主要研究点泌尿系肿瘤，日常工作擅长于前列腺增生、泌尿系结石、男性不育症和男性性功能障碍等疾病的诊治。
 
 -   :telescope: 一个基于R的博客[**My Blog**](https://swcyo.rbind.io/).
 -   :seedling: 目前于热衷 ![R](https://img.shields.io/badge/-R-5D4F85?style=flat&logo=haskell&logoColor=ffffff)的学习.
